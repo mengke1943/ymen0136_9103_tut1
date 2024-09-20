@@ -18,7 +18,7 @@ This is my first local change to the repo!
 1. Item 1
 [Link Text](https://github.com/mengke1943/ymen0136_9103_tut1)
 
-![An image of a cat](http://placekitten.com/200/300)
+
 
 ![An image of Mona](Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
