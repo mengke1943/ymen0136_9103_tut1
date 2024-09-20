@@ -2,4 +2,6 @@
 My first repository for IDEA9103
 
 This is my first local change to the repo!
-haha
+haha**Bold Text**
+
+*Italic Text*
