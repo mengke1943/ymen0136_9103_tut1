@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 # ymen0136_9103_tut1
 # Head 1
 ## Head 2
 ### Head 3
 
+=======
+# ymen0136_9103_tut1#
+>>>>>>> c1e9f5a0c69cf2ad680abab303cea0491974517a
 My first repository for IDEA9103
 
 This is my first local change to the repo!
