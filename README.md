@@ -4,9 +4,13 @@
 
 ###  1.Imaging Technique Inspiration
 
-Our team choose Wheels of fortune from Pacita Abad. I find my imaging technique inspiration from a scene from The Matrix (1999). It is the mirror ripple effect. Neo touches a mirror and its surface ripples like water. 
+Our team choose Wheels of fortune from Pacita Abad.
 
-![An image of The Matrix](The Matrix.png)
+![An iamge of wheels](wheels.jpg)
+
+I find my imaging technique inspiration from a scene from The Matrix (1999). It is the mirror ripple effect. Neo touches a mirror and its surface ripples like water. 
+
+![An iamge of mirror](mirror.png)
 
 1.ARCHI-ROCK
 ![An image of circle](circle.png)
