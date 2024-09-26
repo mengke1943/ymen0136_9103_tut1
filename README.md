@@ -17,7 +17,7 @@ There is a clip from this movie.
 
 
 
-Also, I found two artworks as inspiration for our project. We can combine these elements. When the mouse touches the circle, a regular circular ripple will spread out. As the ripple expands, the waves gradually become irregular, creating a more natural and complex ripple effect. This can create a sense of reality, making our project more dynamic and immersive.
+Also, I found **two** artworks as inspiration for our project. We can combine these elements. When the mouse touches the circle, a regular circular ripple will spread out. As the ripple expands, the waves gradually become irregular, creating a more natural and complex ripple effect. This can create a sense of reality, making our project more dynamic and immersive.
 
 -**ARCHI-ROCK**
 
@@ -49,7 +49,7 @@ The **second** example, [splashing](https://codepen.io/alexzaworski/pen/mEZvrG),
 ![An image of splashing](splashing.png)
 
 
-The **third** example, [irregular](https://codepen.io/vcomics/pen/ZwNgvX), uses technology to deliver natural water ripple expansion. By combining these techniques, I want to generate an interactive effect that transitions from regular ripples to irregular patterns, with the dynamic and immersive effects.
+The **third** example, [irregular ripple effect](https://codepen.io/vcomics/pen/ZwNgvX), uses technology to deliver natural water ripple expansion. By combining these techniques, I want to generate an interactive effect that transitions from regular ripples to irregular patterns, with the dynamic and immersive effects.
 
 ![An image of irregular ripple effect](irregular.png)
 
