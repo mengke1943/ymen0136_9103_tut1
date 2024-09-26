@@ -19,14 +19,14 @@ There is a clip from this movie.
 
 Also, I found two artworks as inspiration for our project. We can combine these elements. When the mouse touches the circle, a regular circular ripple will spread out. As the ripple expands, the waves gradually become irregular, creating a more natural and complex ripple effect. This can create a sense of reality, making our project more dynamic and immersive.
 
-**1.ARCHI-ROCK**
+-**ARCHI-ROCK**
 
 [ARCHI-ROCK](https://au.pinterest.com/pin/21321798205391577/)
 
 ![An image of circle](circle.png)
 
 
-**2.Water Ripples Study II**
+-**Water Ripples Study II**
 
 [Water Ripples Study II](https://jenniferbellart.com/products/water-ripples-study-ii?variant=44421163319536)
 
