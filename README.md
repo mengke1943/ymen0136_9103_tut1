@@ -44,7 +44,7 @@ The **first** example, [mouse ripple](https://happycoding.io/tutorials/p5js/inpu
 ![An image of mouse ripple ](mouseRipple.png)
 
 
-The **second** example, [splashing](https://codepen.io/alexzaworski/pen/mEZvrG), showcases more complex visual effects, like water splashing.
+The **second** example, [splashing](https://codepen.io/alexzaworski/pen/mEZvrG), showcases more complex visual effects, like water splashing. When clicking the mouse, some small dots will randomly appear to simulate splashing water. The color also can change randomly.
 
 ![An image of splashing](splashing.png)
 
